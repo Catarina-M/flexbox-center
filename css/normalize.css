@@ -130,12 +130,13 @@ dfn {
 
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
+ *margin was at 0.67em adjust back if necessary
  * contexts in Firefox 4+, Safari, and Chrome.
  */
 
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: 0;
 }
 
 /**
